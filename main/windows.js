@@ -24,7 +24,7 @@ function createMainWindow (menu) {
     title: config.APP_NAME,
     titleBarStyle: 'hidden-inset',
     width: 450,
-    height: 300
+    height: 450
   })
   win.loadURL(config.INDEX)
 
